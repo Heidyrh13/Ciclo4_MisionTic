@@ -1,0 +1,17 @@
+#Navbar #dropdown-header .row:nth-child(1) {
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#Navbar #dropdown-header .row:nth-child(2) {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.logo {
+  width: 50px;
+  padding-right: 10px;
+}
